@@ -81967,7 +81967,7 @@ if(a4==null)a4=a3.k3
 s=a0.NE(a6)
 a3=a2.ok
 r=a3.e
-r=A.c6("TOEIC \ub2e8\uc5b4 \ud034\uc988",a1,a1,a1,r==null?a1:r.wM(B.ce),a1,a1)
+r=A.c6("\uae08\ubd95\uc5b4 \ud14c\uc2a4\ud2b8",a1,a1,a1,r==null?a1:r.wM(B.ce),a1,a1)
 q=a3.as
 p=A.c6("\ubaa8\ub4dc",a1,a1,a1,q,a1,a1)
 o=A.c([],t.J6)
@@ -82043,7 +82043,7 @@ return s.a7P(s.NE(this.b))},
 $S:0}
 A.LY.prototype={
 O(a){var s="Pretendard",r=null
-return new A.xr(B.DF,"TOEIC \ub2e8\uc5b4 \ud034\uc988",A.oX(r,A.anY(B.a2,r,r,B.mv),s,r),A.oX(r,A.anY(B.Z,r,r,B.mv),s,r),!1,r)}}
+return new A.xr(B.DF,"\uc774\uac8c \uc5b4\ub824\uc6cc?",A.oX(r,A.anY(B.a2,r,r,B.mv),s,r),A.oX(r,A.anY(B.Z,r,r,B.mv),s,r),!1,r)}}
 A.lu.prototype={
 ao(){var s=A.c([],t.GU)
 return new A.Ch(s,new A.zU(B.yE,$.ak()),A.aoj(!0,null,!0,!0,null,null,!1),A.Kr())}}

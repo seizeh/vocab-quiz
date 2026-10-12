@@ -1,6 +1,6 @@
 {
-    "name": "TOEIC 단어 퀴즈",
-    "short_name": "단어 퀴즈",
+    "name": "이게 어려워?",
+    "short_name": "이게 어려워?",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
