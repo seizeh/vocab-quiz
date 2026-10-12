@@ -1,0 +1,962 @@
+[
+  {
+    "word": "acquire",
+    "pronunciation": "əˈkwaɪər",
+    "pos": "v.",
+    "meanings": ["획득하다", "인수하다", "습득하다"],
+    "synonyms": ["obtain", "gain", "purchase"],
+    "example": "The company acquired a smaller competitor last year."
+  },
+  {
+    "word": "allocate",
+    "pronunciation": "ˈæləkeɪt",
+    "pos": "v.",
+    "meanings": ["할당하다", "배정하다"],
+    "synonyms": ["assign", "allot", "distribute"],
+    "example": "Funds were allocated to the marketing department."
+  },
+  {
+    "word": "anticipate",
+    "pronunciation": "ænˈtɪsɪpeɪt",
+    "pos": "v.",
+    "meanings": ["예상하다", "기대하다"],
+    "synonyms": ["expect", "foresee", "predict"],
+    "example": "We anticipate a rise in sales this quarter."
+  },
+  {
+    "word": "comply",
+    "pronunciation": "kəmˈplaɪ",
+    "pos": "v.",
+    "meanings": ["준수하다", "따르다"],
+    "synonyms": ["obey", "follow", "conform"],
+    "example": "All employees must comply with safety regulations."
+  },
+  {
+    "word": "conduct",
+    "pronunciation": "kənˈdʌkt",
+    "pos": "v.",
+    "meanings": ["실시하다", "수행하다"],
+    "synonyms": ["carry out", "perform"],
+    "example": "The team will conduct a customer survey."
+  },
+  {
+    "word": "considerable",
+    "pronunciation": "kənˈsɪdərəbl",
+    "pos": "adj.",
+    "meanings": ["상당한"],
+    "synonyms": ["substantial", "significant", "sizable"],
+    "example": "The project required a considerable amount of time."
+  },
+  {
+    "word": "defective",
+    "pronunciation": "dɪˈfektɪv",
+    "pos": "adj.",
+    "meanings": ["결함이 있는"],
+    "synonyms": ["faulty", "flawed"],
+    "example": "Defective items can be returned for a full refund."
+  },
+  {
+    "word": "demonstrate",
+    "pronunciation": "ˈdemənstreɪt",
+    "pos": "v.",
+    "meanings": ["보여주다", "시연하다", "입증하다"],
+    "synonyms": ["show", "display", "prove"],
+    "example": "The engineer demonstrated how the device works."
+  },
+  {
+    "word": "eligible",
+    "pronunciation": "ˈelɪdʒəbl",
+    "pos": "adj.",
+    "meanings": ["자격이 있는"],
+    "synonyms": ["qualified", "entitled"],
+    "example": "Full-time staff are eligible for paid leave."
+  },
+  {
+    "word": "enhance",
+    "pronunciation": "ɪnˈhæns",
+    "pos": "v.",
+    "meanings": ["향상시키다", "높이다"],
+    "synonyms": ["improve", "boost", "strengthen"],
+    "example": "The update enhances the app's performance."
+  },
+  {
+    "word": "expand",
+    "pronunciation": "ɪkˈspænd",
+    "pos": "v.",
+    "meanings": ["확장하다", "확대하다"],
+    "synonyms": ["enlarge", "broaden", "grow"],
+    "example": "The firm plans to expand into Asian markets."
+  },
+  {
+    "word": "expire",
+    "pronunciation": "ɪkˈspaɪər",
+    "pos": "v.",
+    "meanings": ["만료되다"],
+    "synonyms": ["lapse", "run out", "end"],
+    "example": "Your membership will expire at the end of the month."
+  },
+  {
+    "word": "extend",
+    "pronunciation": "ɪkˈstend",
+    "pos": "v.",
+    "meanings": ["연장하다"],
+    "synonyms": ["prolong", "lengthen"],
+    "example": "The deadline was extended by one week."
+  },
+  {
+    "word": "facilitate",
+    "pronunciation": "fəˈsɪlɪteɪt",
+    "pos": "v.",
+    "meanings": ["용이하게 하다", "촉진하다"],
+    "synonyms": ["ease", "assist", "expedite"],
+    "example": "The new software facilitates communication between teams."
+  },
+  {
+    "word": "implement",
+    "pronunciation": "ˈɪmplɪment",
+    "pos": "v.",
+    "meanings": ["시행하다", "실행하다"],
+    "synonyms": ["carry out", "execute", "enforce"],
+    "example": "The policy will be implemented next month."
+  },
+  {
+    "word": "mandatory",
+    "pronunciation": "ˈmændətɔːri",
+    "pos": "adj.",
+    "meanings": ["의무적인", "필수의"],
+    "synonyms": ["compulsory", "obligatory", "required"],
+    "example": "Attendance at the training session is mandatory."
+  },
+  {
+    "word": "modify",
+    "pronunciation": "ˈmɑːdɪfaɪ",
+    "pos": "v.",
+    "meanings": ["수정하다", "변경하다"],
+    "synonyms": ["alter", "change", "revise", "adjust"],
+    "example": "Please modify the schedule to include the new meeting."
+  },
+  {
+    "word": "notify",
+    "pronunciation": "ˈnoʊtɪfaɪ",
+    "pos": "v.",
+    "meanings": ["통지하다", "알리다"],
+    "synonyms": ["inform", "advise", "alert"],
+    "example": "Please notify the manager of any changes."
+  },
+  {
+    "word": "obtain",
+    "pronunciation": "əbˈteɪn",
+    "pos": "v.",
+    "meanings": ["얻다", "획득하다"],
+    "synonyms": ["acquire", "get", "secure"],
+    "example": "You must obtain a permit before starting construction."
+  },
+  {
+    "word": "postpone",
+    "pronunciation": "poʊstˈpoʊn",
+    "pos": "v.",
+    "meanings": ["연기하다", "미루다"],
+    "synonyms": ["delay", "defer", "put off"],
+    "example": "The meeting was postponed until Friday."
+  },
+  {
+    "word": "preliminary",
+    "pronunciation": "prɪˈlɪmɪneri",
+    "pos": "adj.",
+    "meanings": ["예비의", "사전의"],
+    "synonyms": ["initial", "preparatory"],
+    "example": "The preliminary results look promising."
+  },
+  {
+    "word": "prior",
+    "pronunciation": "ˈpraɪər",
+    "pos": "adj.",
+    "meanings": ["이전의", "사전의"],
+    "synonyms": ["previous", "earlier", "former"],
+    "example": "No prior experience is required for this position."
+  },
+  {
+    "word": "prompt",
+    "pronunciation": "prɑːmpt",
+    "pos": "adj.",
+    "meanings": ["신속한", "즉각적인"],
+    "synonyms": ["quick", "immediate", "swift"],
+    "example": "Thank you for your prompt reply."
+  },
+  {
+    "word": "purchase",
+    "pronunciation": "ˈpɜːrtʃəs",
+    "pos": "v.",
+    "meanings": ["구매하다", "구입하다"],
+    "synonyms": ["buy", "acquire"],
+    "example": "Tickets can be purchased online."
+  },
+  {
+    "word": "reimburse",
+    "pronunciation": "ˌriːɪmˈbɜːrs",
+    "pos": "v.",
+    "meanings": ["환급하다", "상환하다"],
+    "synonyms": ["repay", "refund", "compensate"],
+    "example": "The company will reimburse your travel expenses."
+  },
+  {
+    "word": "renew",
+    "pronunciation": "rɪˈnuː",
+    "pos": "v.",
+    "meanings": ["갱신하다"],
+    "synonyms": ["extend", "update"],
+    "example": "You can renew your subscription online."
+  },
+  {
+    "word": "resign",
+    "pronunciation": "rɪˈzaɪn",
+    "pos": "v.",
+    "meanings": ["사임하다", "사직하다"],
+    "synonyms": ["quit", "step down", "leave"],
+    "example": "The director resigned after ten years of service."
+  },
+  {
+    "word": "revise",
+    "pronunciation": "rɪˈvaɪz",
+    "pos": "v.",
+    "meanings": ["수정하다", "개정하다"],
+    "synonyms": ["modify", "amend", "edit"],
+    "example": "The contract was revised to reflect the new terms."
+  },
+  {
+    "word": "sufficient",
+    "pronunciation": "səˈfɪʃnt",
+    "pos": "adj.",
+    "meanings": ["충분한"],
+    "synonyms": ["adequate", "enough", "ample"],
+    "example": "We have sufficient supplies for the event."
+  },
+  {
+    "word": "tentative",
+    "pronunciation": "ˈtentətɪv",
+    "pos": "adj.",
+    "meanings": ["잠정적인", "임시의"],
+    "synonyms": ["provisional", "temporary"],
+    "example": "A tentative date has been set for the launch."
+  },
+  {
+    "word": "terminate",
+    "pronunciation": "ˈtɜːrmɪneɪt",
+    "pos": "v.",
+    "meanings": ["종료하다", "끝내다"],
+    "synonyms": ["end", "discontinue", "cancel"],
+    "example": "Either party may terminate the agreement."
+  },
+  {
+    "word": "verify",
+    "pronunciation": "ˈverɪfaɪ",
+    "pos": "v.",
+    "meanings": ["확인하다", "입증하다"],
+    "synonyms": ["confirm", "check", "validate"],
+    "example": "Please verify your e-mail address."
+  },
+  {
+    "word": "vacant",
+    "pronunciation": "ˈveɪkənt",
+    "pos": "adj.",
+    "meanings": ["비어 있는", "공석인"],
+    "synonyms": ["empty", "unoccupied", "available"],
+    "example": "The position has been vacant for two months."
+  },
+  {
+    "word": "address",
+    "pronunciation": "əˈdres",
+    "pos": "v.",
+    "meanings": ["(문제를) 다루다", "처리하다"],
+    "synonyms": ["deal with", "handle", "tackle"],
+    "example": "The manager addressed the customer's complaint."
+  },
+  {
+    "word": "submit",
+    "pronunciation": "səbˈmɪt",
+    "pos": "v.",
+    "meanings": ["제출하다"],
+    "synonyms": ["hand in", "turn in", "present"],
+    "example": "Applications must be submitted by May 1."
+  },
+  {
+    "word": "approximately",
+    "pronunciation": "əˈprɑːksɪmətli",
+    "pos": "adv.",
+    "meanings": ["대략", "약"],
+    "synonyms": ["about", "roughly", "around"],
+    "example": "The repairs will take approximately two hours."
+  },
+  {
+    "word": "subsequent",
+    "pronunciation": "ˈsʌbsɪkwənt",
+    "pos": "adj.",
+    "meanings": ["그 이후의", "다음의"],
+    "synonyms": ["following", "later", "succeeding"],
+    "example": "Subsequent orders will be shipped free of charge."
+  },
+  {
+    "word": "commence",
+    "pronunciation": "kəˈmens",
+    "pos": "v.",
+    "meanings": ["시작하다", "개시하다"],
+    "synonyms": ["begin", "start", "initiate"],
+    "example": "Construction will commence in March."
+  },
+  {
+    "word": "assess",
+    "pronunciation": "əˈses",
+    "pos": "v.",
+    "meanings": ["평가하다"],
+    "synonyms": ["evaluate", "appraise", "judge"],
+    "example": "The committee will assess each proposal."
+  },
+  {
+    "word": "durable",
+    "pronunciation": "ˈdʊrəbl",
+    "pos": "adj.",
+    "meanings": ["내구성이 있는", "튼튼한"],
+    "synonyms": ["sturdy", "long-lasting", "tough"],
+    "example": "These bags are made of durable material."
+  },
+  {
+    "word": "accommodate",
+    "pronunciation": "əˈkɑːmədeɪt",
+    "pos": "v.",
+    "meanings": ["수용하다", "숙박시키다"],
+    "synonyms": ["house", "lodge", "hold"],
+    "example": "The hotel can accommodate up to 300 guests."
+  },
+  {
+    "word": "adjacent",
+    "pronunciation": "əˈdʒeɪsnt",
+    "pos": "adj.",
+    "meanings": ["인접한", "가까운"],
+    "synonyms": ["neighboring", "adjoining", "nearby"],
+    "example": "The parking lot is adjacent to the main building."
+  },
+  {
+    "word": "authorize",
+    "pronunciation": "ˈɔːθəraɪz",
+    "pos": "v.",
+    "meanings": ["승인하다", "권한을 부여하다"],
+    "synonyms": ["approve", "permit", "sanction"],
+    "example": "Only managers can authorize refunds."
+  },
+  {
+    "word": "beneficial",
+    "pronunciation": "ˌbenɪˈfɪʃl",
+    "pos": "adj.",
+    "meanings": ["유익한", "이로운"],
+    "synonyms": ["helpful", "advantageous", "useful"],
+    "example": "Regular training is beneficial to all staff."
+  },
+  {
+    "word": "compensate",
+    "pronunciation": "ˈkɑːmpenseɪt",
+    "pos": "v.",
+    "meanings": ["보상하다", "배상하다"],
+    "synonyms": ["reimburse", "repay", "recompense"],
+    "example": "The airline compensated passengers for the delay."
+  },
+  {
+    "word": "confidential",
+    "pronunciation": "ˌkɑːnfɪˈdenʃl",
+    "pos": "adj.",
+    "meanings": ["기밀의", "비밀의"],
+    "synonyms": ["private", "secret", "classified"],
+    "example": "All customer records are strictly confidential."
+  },
+  {
+    "word": "consecutive",
+    "pronunciation": "kənˈsekjətɪv",
+    "pos": "adj.",
+    "meanings": ["연속적인", "연이은"],
+    "synonyms": ["successive", "sequential", "straight"],
+    "example": "Sales have risen for three consecutive quarters."
+  },
+  {
+    "word": "decline",
+    "pronunciation": "dɪˈklaɪn",
+    "pos": "v.",
+    "meanings": ["감소하다", "거절하다"],
+    "synonyms": ["decrease", "drop", "refuse"],
+    "example": "Profits declined by five percent last year."
+  },
+  {
+    "word": "distribute",
+    "pronunciation": "dɪˈstrɪbjuːt",
+    "pos": "v.",
+    "meanings": ["배포하다", "분배하다"],
+    "synonyms": ["hand out", "give out", "circulate"],
+    "example": "Brochures were distributed to all attendees."
+  },
+  {
+    "word": "efficient",
+    "pronunciation": "ɪˈfɪʃnt",
+    "pos": "adj.",
+    "meanings": ["효율적인", "능률적인"],
+    "synonyms": ["productive", "effective", "economical"],
+    "example": "The new system is more efficient than the old one."
+  },
+  {
+    "word": "exceed",
+    "pronunciation": "ɪkˈsiːd",
+    "pos": "v.",
+    "meanings": ["초과하다", "넘다"],
+    "synonyms": ["surpass", "top", "go beyond"],
+    "example": "Sales exceeded our expectations."
+  },
+  {
+    "word": "inspect",
+    "pronunciation": "ɪnˈspekt",
+    "pos": "v.",
+    "meanings": ["검사하다", "점검하다"],
+    "synonyms": ["examine", "check", "review"],
+    "example": "Officials inspect the factory once a year."
+  },
+  {
+    "word": "launch",
+    "pronunciation": "lɔːntʃ",
+    "pos": "v.",
+    "meanings": ["출시하다", "착수하다"],
+    "synonyms": ["release", "introduce", "start"],
+    "example": "The company will launch a new product in June."
+  },
+  {
+    "word": "negotiate",
+    "pronunciation": "nɪˈgoʊʃieɪt",
+    "pos": "v.",
+    "meanings": ["협상하다"],
+    "synonyms": ["bargain", "haggle"],
+    "example": "The two firms are negotiating a new contract."
+  },
+  {
+    "word": "numerous",
+    "pronunciation": "ˈnuːmərəs",
+    "pos": "adj.",
+    "meanings": ["수많은", "다수의"],
+    "synonyms": ["many", "countless", "multiple"],
+    "example": "The store received numerous complaints."
+  },
+  {
+    "word": "primary",
+    "pronunciation": "ˈpraɪmeri",
+    "pos": "adj.",
+    "meanings": ["주요한", "주된"],
+    "synonyms": ["main", "chief", "principal"],
+    "example": "Our primary concern is customer safety."
+  },
+  {
+    "word": "relocate",
+    "pronunciation": "ˌriːˈloʊkeɪt",
+    "pos": "v.",
+    "meanings": ["이전하다", "옮기다"],
+    "synonyms": ["move", "transfer"],
+    "example": "The headquarters will relocate to Busan."
+  },
+  {
+    "word": "require",
+    "pronunciation": "rɪˈkwaɪər",
+    "pos": "v.",
+    "meanings": ["요구하다", "필요로 하다"],
+    "synonyms": ["need", "demand", "call for"],
+    "example": "This position requires three years of experience."
+  },
+  {
+    "word": "retain",
+    "pronunciation": "rɪˈteɪn",
+    "pos": "v.",
+    "meanings": ["유지하다", "보유하다"],
+    "synonyms": ["keep", "maintain", "preserve"],
+    "example": "Please retain your receipt for future reference."
+  },
+  {
+    "word": "temporary",
+    "pronunciation": "ˈtempəreri",
+    "pos": "adj.",
+    "meanings": ["임시의", "일시적인"],
+    "synonyms": ["interim", "short-term", "provisional"],
+    "example": "We hired temporary staff for the holiday season."
+  },
+  {
+    "word": "accurate",
+    "pronunciation": "ˈækjərət",
+    "pos": "adj.",
+    "meanings": ["정확한"],
+    "synonyms": ["precise", "exact", "correct"],
+    "example": "Please make sure the figures are accurate."
+  },
+  {
+    "word": "affordable",
+    "pronunciation": "əˈfɔːrdəbl",
+    "pos": "adj.",
+    "meanings": ["저렴한", "가격이 적당한"],
+    "synonyms": ["inexpensive", "reasonable", "low-priced"],
+    "example": "The store sells quality furniture at affordable prices."
+  },
+  {
+    "word": "approve",
+    "pronunciation": "əˈpruːv",
+    "pos": "v.",
+    "meanings": ["승인하다", "찬성하다"],
+    "synonyms": ["authorize", "endorse", "accept"],
+    "example": "The board approved the budget proposal."
+  },
+  {
+    "word": "complimentary",
+    "pronunciation": "ˌkɑːmplɪˈmentri",
+    "pos": "adj.",
+    "meanings": ["무료의"],
+    "synonyms": ["free", "free of charge"],
+    "example": "Guests receive a complimentary breakfast."
+  },
+  {
+    "word": "comprehensive",
+    "pronunciation": "ˌkɑːmprɪˈhensɪv",
+    "pos": "adj.",
+    "meanings": ["종합적인", "포괄적인"],
+    "synonyms": ["complete", "thorough", "extensive"],
+    "example": "We offer a comprehensive training program."
+  },
+  {
+    "word": "crucial",
+    "pronunciation": "ˈkruːʃl",
+    "pos": "adj.",
+    "meanings": ["결정적인", "중대한"],
+    "synonyms": ["vital", "essential", "critical"],
+    "example": "Timing is crucial to the success of the campaign."
+  },
+  {
+    "word": "delay",
+    "pronunciation": "dɪˈleɪ",
+    "pos": "v.",
+    "meanings": ["지연시키다", "미루다"],
+    "synonyms": ["postpone", "hold up", "put off"],
+    "example": "The flight was delayed by heavy fog."
+  },
+  {
+    "word": "diverse",
+    "pronunciation": "daɪˈvɜːrs",
+    "pos": "adj.",
+    "meanings": ["다양한"],
+    "synonyms": ["varied", "various", "assorted"],
+    "example": "The company has a diverse workforce."
+  },
+  {
+    "word": "establish",
+    "pronunciation": "ɪˈstæblɪʃ",
+    "pos": "v.",
+    "meanings": ["설립하다", "확립하다"],
+    "synonyms": ["found", "set up", "create"],
+    "example": "The firm was established in 1995."
+  },
+  {
+    "word": "fluctuate",
+    "pronunciation": "ˈflʌktʃueɪt",
+    "pos": "v.",
+    "meanings": ["변동하다", "오르내리다"],
+    "synonyms": ["vary", "change", "shift"],
+    "example": "Prices fluctuate depending on the season."
+  },
+  {
+    "word": "generate",
+    "pronunciation": "ˈdʒenəreɪt",
+    "pos": "v.",
+    "meanings": ["창출하다", "발생시키다"],
+    "synonyms": ["produce", "create", "yield"],
+    "example": "The campaign generated a lot of interest."
+  },
+  {
+    "word": "initial",
+    "pronunciation": "ɪˈnɪʃl",
+    "pos": "adj.",
+    "meanings": ["초기의", "처음의"],
+    "synonyms": ["first", "early", "preliminary"],
+    "example": "The initial response was very positive."
+  },
+  {
+    "word": "obligation",
+    "pronunciation": "ˌɑːblɪˈgeɪʃn",
+    "pos": "n.",
+    "meanings": ["의무", "책임"],
+    "synonyms": ["duty", "responsibility", "commitment"],
+    "example": "Tenants have an obligation to pay rent on time."
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrˈtɪsɪpeɪt",
+    "pos": "v.",
+    "meanings": ["참여하다", "참가하다"],
+    "synonyms": ["take part", "join", "engage"],
+    "example": "All staff are encouraged to participate in the workshop."
+  },
+  {
+    "word": "potential",
+    "pronunciation": "pəˈtenʃl",
+    "pos": "adj.",
+    "meanings": ["잠재적인", "가능성 있는"],
+    "synonyms": ["possible", "prospective", "likely"],
+    "example": "We met with several potential clients."
+  },
+  {
+    "word": "reduce",
+    "pronunciation": "rɪˈduːs",
+    "pos": "v.",
+    "meanings": ["줄이다", "감소시키다"],
+    "synonyms": ["decrease", "cut", "lower"],
+    "example": "The company plans to reduce costs by 10 percent."
+  },
+  {
+    "word": "reliable",
+    "pronunciation": "rɪˈlaɪəbl",
+    "pos": "adj.",
+    "meanings": ["믿을 만한", "신뢰할 수 있는"],
+    "synonyms": ["dependable", "trustworthy"],
+    "example": "We need a reliable supplier."
+  },
+  {
+    "word": "replace",
+    "pronunciation": "rɪˈpleɪs",
+    "pos": "v.",
+    "meanings": ["교체하다", "대체하다"],
+    "synonyms": ["substitute", "change", "swap"],
+    "example": "The old printers will be replaced next week."
+  },
+  {
+    "word": "significant",
+    "pronunciation": "sɪgˈnɪfɪkənt",
+    "pos": "adj.",
+    "meanings": ["중요한", "상당한"],
+    "synonyms": ["important", "considerable", "notable"],
+    "example": "There has been a significant increase in sales."
+  },
+  {
+    "word": "upcoming",
+    "pronunciation": "ˈʌpkʌmɪŋ",
+    "pos": "adj.",
+    "meanings": ["다가오는", "곧 있을"],
+    "synonyms": ["forthcoming", "approaching", "coming"],
+    "example": "Details of the upcoming event will be announced soon."
+  },
+  {
+    "word": "abundant",
+    "pronunciation": "əˈbʌndənt",
+    "pos": "adj.",
+    "meanings": ["풍부한"],
+    "synonyms": ["plentiful", "ample", "copious"],
+    "example": "The region has abundant natural resources."
+  },
+  {
+    "word": "achieve",
+    "pronunciation": "əˈtʃiːv",
+    "pos": "v.",
+    "meanings": ["달성하다", "성취하다"],
+    "synonyms": ["accomplish", "attain", "reach"],
+    "example": "The team achieved its sales target."
+  },
+  {
+    "word": "adequate",
+    "pronunciation": "ˈædɪkwət",
+    "pos": "adj.",
+    "meanings": ["적절한", "충분한"],
+    "synonyms": ["sufficient", "satisfactory", "acceptable"],
+    "example": "The room provides adequate space for the meeting."
+  },
+  {
+    "word": "alternative",
+    "pronunciation": "ɔːlˈtɜːrnətɪv",
+    "pos": "n.",
+    "meanings": ["대안"],
+    "synonyms": ["option", "substitute", "choice"],
+    "example": "We need to find an alternative to the current supplier."
+  },
+  {
+    "word": "collaborate",
+    "pronunciation": "kəˈlæbəreɪt",
+    "pos": "v.",
+    "meanings": ["협력하다", "협업하다"],
+    "synonyms": ["cooperate", "work together", "team up"],
+    "example": "The two departments collaborated on the project."
+  },
+  {
+    "word": "convenient",
+    "pronunciation": "kənˈviːniənt",
+    "pos": "adj.",
+    "meanings": ["편리한"],
+    "synonyms": ["handy", "accessible", "practical"],
+    "example": "The hotel is in a convenient location."
+  },
+  {
+    "word": "depart",
+    "pronunciation": "dɪˈpɑːrt",
+    "pos": "v.",
+    "meanings": ["출발하다", "떠나다"],
+    "synonyms": ["leave", "set off", "go"],
+    "example": "The train departs at 9 a.m."
+  },
+  {
+    "word": "emphasize",
+    "pronunciation": "ˈemfəsaɪz",
+    "pos": "v.",
+    "meanings": ["강조하다"],
+    "synonyms": ["stress", "highlight", "underline"],
+    "example": "The manager emphasized the importance of teamwork."
+  },
+  {
+    "word": "estimate",
+    "pronunciation": "ˈestɪmeɪt",
+    "pos": "v.",
+    "meanings": ["추정하다", "견적을 내다"],
+    "synonyms": ["approximate", "gauge", "calculate"],
+    "example": "We estimate that the work will take two weeks."
+  },
+  {
+    "word": "flexible",
+    "pronunciation": "ˈfleksəbl",
+    "pos": "adj.",
+    "meanings": ["유연한", "융통성 있는"],
+    "synonyms": ["adaptable", "adjustable", "versatile"],
+    "example": "The company offers flexible working hours."
+  },
+  {
+    "word": "guarantee",
+    "pronunciation": "ˌgærənˈtiː",
+    "pos": "v.",
+    "meanings": ["보장하다", "보증하다"],
+    "synonyms": ["assure", "ensure", "promise"],
+    "example": "We guarantee delivery within three days."
+  },
+  {
+    "word": "hesitate",
+    "pronunciation": "ˈhezɪteɪt",
+    "pos": "v.",
+    "meanings": ["주저하다", "망설이다"],
+    "synonyms": ["pause", "waver", "falter"],
+    "example": "Do not hesitate to contact us."
+  },
+  {
+    "word": "indicate",
+    "pronunciation": "ˈɪndɪkeɪt",
+    "pos": "v.",
+    "meanings": ["나타내다", "가리키다"],
+    "synonyms": ["show", "suggest", "point out"],
+    "example": "The survey indicates that customers are satisfied."
+  },
+  {
+    "word": "maintain",
+    "pronunciation": "meɪnˈteɪn",
+    "pos": "v.",
+    "meanings": ["유지하다", "관리하다"],
+    "synonyms": ["keep", "preserve", "sustain"],
+    "example": "The building is well maintained."
+  },
+  {
+    "word": "outstanding",
+    "pronunciation": "aʊtˈstændɪŋ",
+    "pos": "adj.",
+    "meanings": ["뛰어난", "미지불의"],
+    "synonyms": ["excellent", "exceptional", "unpaid"],
+    "example": "She received an award for outstanding performance."
+  },
+  {
+    "word": "permit",
+    "pronunciation": "pərˈmɪt",
+    "pos": "v.",
+    "meanings": ["허용하다", "허가하다"],
+    "synonyms": ["allow", "authorize", "let"],
+    "example": "Smoking is not permitted in the building."
+  },
+  {
+    "word": "previous",
+    "pronunciation": "ˈpriːviəs",
+    "pos": "adj.",
+    "meanings": ["이전의", "앞선"],
+    "synonyms": ["prior", "former", "earlier"],
+    "example": "Please refer to the previous page."
+  },
+  {
+    "word": "proceed",
+    "pronunciation": "proʊˈsiːd",
+    "pos": "v.",
+    "meanings": ["진행하다", "나아가다"],
+    "synonyms": ["continue", "go ahead", "advance"],
+    "example": "Please proceed to Gate 12."
+  },
+  {
+    "word": "recommend",
+    "pronunciation": "ˌrekəˈmend",
+    "pos": "v.",
+    "meanings": ["추천하다", "권장하다"],
+    "synonyms": ["suggest", "advise", "propose"],
+    "example": "I recommend booking in advance."
+  },
+  {
+    "word": "respond",
+    "pronunciation": "rɪˈspɑːnd",
+    "pos": "v.",
+    "meanings": ["응답하다", "대응하다"],
+    "synonyms": ["reply", "answer", "react"],
+    "example": "Please respond to the invitation by Friday."
+  },
+  {
+    "word": "assign",
+    "pronunciation": "əˈsaɪn",
+    "pos": "v.",
+    "meanings": ["배정하다", "맡기다"],
+    "synonyms": ["allocate", "delegate", "appoint"],
+    "example": "The manager assigned the task to a new employee."
+  },
+  {
+    "word": "attract",
+    "pronunciation": "əˈtrækt",
+    "pos": "v.",
+    "meanings": ["끌어들이다", "유치하다"],
+    "synonyms": ["draw", "appeal to", "lure"],
+    "example": "The exhibition attracted thousands of visitors."
+  },
+  {
+    "word": "capacity",
+    "pronunciation": "kəˈpæsəti",
+    "pos": "n.",
+    "meanings": ["수용력", "용량"],
+    "synonyms": ["volume", "size", "ability"],
+    "example": "The stadium has a seating capacity of 50,000."
+  },
+  {
+    "word": "cautious",
+    "pronunciation": "ˈkɔːʃəs",
+    "pos": "adj.",
+    "meanings": ["신중한", "조심스러운"],
+    "synonyms": ["careful", "wary", "prudent"],
+    "example": "Investors remain cautious about the market."
+  },
+  {
+    "word": "confirm",
+    "pronunciation": "kənˈfɜːrm",
+    "pos": "v.",
+    "meanings": ["확인하다", "확정하다"],
+    "synonyms": ["verify", "validate", "affirm"],
+    "example": "Please confirm your reservation by e-mail."
+  },
+  {
+    "word": "consistent",
+    "pronunciation": "kənˈsɪstənt",
+    "pos": "adj.",
+    "meanings": ["일관된", "꾸준한"],
+    "synonyms": ["steady", "constant", "regular"],
+    "example": "The team has shown consistent growth."
+  },
+  {
+    "word": "deliver",
+    "pronunciation": "dɪˈlɪvər",
+    "pos": "v.",
+    "meanings": ["배달하다", "전달하다"],
+    "synonyms": ["bring", "ship", "hand over"],
+    "example": "The package will be delivered tomorrow."
+  },
+  {
+    "word": "eliminate",
+    "pronunciation": "ɪˈlɪmɪneɪt",
+    "pos": "v.",
+    "meanings": ["제거하다", "없애다"],
+    "synonyms": ["remove", "get rid of", "eradicate"],
+    "example": "The new process eliminates unnecessary steps."
+  },
+  {
+    "word": "exclusive",
+    "pronunciation": "ɪkˈskluːsɪv",
+    "pos": "adj.",
+    "meanings": ["독점적인", "전용의"],
+    "synonyms": ["sole", "private", "limited"],
+    "example": "Members have exclusive access to the lounge."
+  },
+  {
+    "word": "expertise",
+    "pronunciation": "ˌekspɜːrˈtiːz",
+    "pos": "n.",
+    "meanings": ["전문 지식", "전문성"],
+    "synonyms": ["skill", "knowledge", "proficiency"],
+    "example": "She has expertise in financial planning."
+  },
+  {
+    "word": "improve",
+    "pronunciation": "ɪmˈpruːv",
+    "pos": "v.",
+    "meanings": ["개선하다", "향상시키다"],
+    "synonyms": ["enhance", "upgrade", "better"],
+    "example": "We are working to improve our customer service."
+  },
+  {
+    "word": "innovative",
+    "pronunciation": "ˈɪnəveɪtɪv",
+    "pos": "adj.",
+    "meanings": ["혁신적인"],
+    "synonyms": ["creative", "original", "groundbreaking"],
+    "example": "The company is known for its innovative products."
+  },
+  {
+    "word": "occur",
+    "pronunciation": "əˈkɜːr",
+    "pos": "v.",
+    "meanings": ["발생하다", "일어나다"],
+    "synonyms": ["happen", "take place", "arise"],
+    "example": "The error occurred during the update."
+  },
+  {
+    "word": "prohibit",
+    "pronunciation": "prəˈhɪbɪt",
+    "pos": "v.",
+    "meanings": ["금지하다"],
+    "synonyms": ["ban", "forbid", "bar"],
+    "example": "Parking is prohibited in front of the entrance."
+  },
+  {
+    "word": "resolve",
+    "pronunciation": "rɪˈzɑːlv",
+    "pos": "v.",
+    "meanings": ["해결하다"],
+    "synonyms": ["solve", "settle", "fix"],
+    "example": "The issue was resolved within an hour."
+  },
+  {
+    "word": "secure",
+    "pronunciation": "sɪˈkjʊr",
+    "pos": "v.",
+    "meanings": ["확보하다", "안전하게 지키다"],
+    "synonyms": ["obtain", "get", "protect"],
+    "example": "The company secured a major contract."
+  },
+  {
+    "word": "thorough",
+    "pronunciation": "ˈθɜːroʊ",
+    "pos": "adj.",
+    "meanings": ["철저한", "꼼꼼한"],
+    "synonyms": ["careful", "detailed", "comprehensive"],
+    "example": "The auditors conducted a thorough review."
+  },
+  {
+    "word": "transfer",
+    "pronunciation": "trænsˈfɜːr",
+    "pos": "v.",
+    "meanings": ["옮기다", "전근시키다"],
+    "synonyms": ["move", "relocate", "shift"],
+    "example": "She was transferred to the Tokyo office."
+  },
+  {
+    "word": "urgent",
+    "pronunciation": "ˈɜːrdʒənt",
+    "pos": "adj.",
+    "meanings": ["긴급한", "시급한"],
+    "synonyms": ["pressing", "critical", "immediate"],
+    "example": "We received an urgent request from a client."
+  },
+  {
+    "word": "withdraw",
+    "pronunciation": "wɪðˈdrɔː",
+    "pos": "v.",
+    "meanings": ["인출하다", "철회하다"],
+    "synonyms": ["take out", "remove", "retract"],
+    "example": "You can withdraw cash at any ATM."
+  }
+]
